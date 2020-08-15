@@ -15,22 +15,46 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python for Data Science & ML"
+  description = "NumPy, Scikit-learn, Pandas, xgboost, lightgbm, imblearn, StatsModels"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "R for Data Science & ML"
+  description = "dyplr (dplyr, ggplot2, broom)"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Data Visualization"
+  description = "Plotly, matplotlib, seaborn, ipywidgets, Voila, streamlit"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "robot"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Deep Learning"
+  description = "Tensorflow, Keras"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Big Data Engineering"
+  description = "Hadoop, BigQuery, Spark, SQL"
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Application Development"
+  description = "Java, C#, C, JavaScript"
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Version Control"
+  description = "Git, Github, Bitbucket"
 
 # Uncomment to use emoji icons.
 # [[feature]]
